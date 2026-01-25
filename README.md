@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-ridho-muhajir-9251a31b1/)
 
-<p align="left">Let's play game</p>
+<h4 align="left">Let's play game</h4>
 
 ###
 
@@ -37,9 +37,5 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadRidho01/AhmadRidho01/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmadRidho01/AhmadRidho01/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/AhmadRidho01/AhmadRidho01/output/snake.svg" alt="Snake animation" />
 
 ###
