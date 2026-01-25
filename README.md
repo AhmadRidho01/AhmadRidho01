@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **_JavaScript_**
   😄😄😄
+
+##### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+
+##### Connect with Me
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-ridho-muhajir-9251a31b1/)
