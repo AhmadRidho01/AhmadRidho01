@@ -1,6 +1,6 @@
 ## Hello 👋👋
 
-![AAA](<img/github-header-banner%20(4).png>)
+![AAA](<img/github-header-banner%20(2).png>)
 
 <!--
 **AhmadRidho01/AhmadRidho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
