@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on:
-  > **WartOL** - _Mini Project, Website for ordering food digitally_ https://ahmadridho01.github.io/WartOL/
+  > **WartOL** - _Mini Project, Website for ordering food digitally_ | https://ahmadridho01.github.io/WartOL/
 - 🌱 I’m currently learning **Node.js**
 
 #### ⚡Skills
