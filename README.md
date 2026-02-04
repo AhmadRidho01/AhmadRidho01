@@ -17,18 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning **_JavaScript_**
-  😄😄😄
+- 🔭 I’m currently working on:
+  > **WartOL** - _Mini Project, Website for ordering food digitally_ https://ahmadridho01.github.io/WartOL/
+- 🌱 I’m currently learning **Node.js**
 
-##### Skills
+#### ⚡Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs)](https://skillicons.dev)
 
-##### Connect with Me
+#### 📫Connect with Me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-ridho-muhajir-9251a31b1/)
 
-<h4 align="left">Let's play game</h4>
+<h3 align="left">Let's play game😄</h3>
 
 ###
 
