@@ -1,6 +1,6 @@
 ## It's so nice to have you here🤩
 
-![AAA](<img/github-header-banner%20(2).png>)
+![AAA](img/github-header-banner.png)
 
 <!--
 **AhmadRidho01/AhmadRidho01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on:
+- 🔭 2026, I’m currently working on:
+
   > **WartOL** - _Mini Project, Website for ordering food digitally_ | https://ahmadridho01.github.io/WartOL/
+
+  > **FoodSci Hub** - _Project, Website resulting from collaboration between science in the food sector packaged through IT science_ | https://ahmadridho01.github.io/gitWebsiteTekpang/
+
 - 🌱 I’m currently learning **Node.js**
 
 #### ⚡Skills
