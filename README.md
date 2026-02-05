@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 2026, I’m currently working on:
 
-  > **WartOL** - _Mini Project, Website for ordering food digitally_ | https://ahmadridho01.github.io/WartOL/
+  > **WartOL** - _Mini Project, a simple Website page for stall_ | https://ahmadridho01.github.io/WartOL/
 
   > **FoodSci Hub** - _Project, Website resulting from collaboration between science in the food sector packaged through IT science_ | https://ahmadridho01.github.io/gitWebsiteTekpang/
 
