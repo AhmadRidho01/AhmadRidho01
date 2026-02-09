@@ -1,4 +1,8 @@
+<div style="text-align: center;">
+
 ## It's so nice to have you here🤩
+
+</div>
 
 ![AAA](img/github-header-banner.png)
 
@@ -17,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 2026, I’m currently working on:
+- 🔭 in 2026, I’m currently working on:
 
   > **WartOL** - _Mini Project, a simple Website page for stall_ | https://ahmadridho01.github.io/WartOL/
 
@@ -25,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Express.js**
 
-#### ⚡Skills
+#### ⚡Materials
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express)](https://skillicons.dev)
 
@@ -33,7 +37,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-ridho-muhajir-9251a31b1/)
 
-<h3 align="left">Let's play game😄</h3>
+<h3 align="left">Entertain Section😄</h3>
 
 ###
 
