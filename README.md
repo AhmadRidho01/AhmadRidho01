@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
   > **FoodSci Hub** - _Project, Website resulting from collaboration between science in the food sector packaged through IT science_ | https://ahmadridho01.github.io/gitWebsiteTekpang/
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **MongoDB**
 
 #### ⚡Materials
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb)](https://skillicons.dev)
 
 #### 📫Connect with Me
 
