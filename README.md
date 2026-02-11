@@ -21,23 +21,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 in 2026, I’m currently working on:
+- 🔭 I’m currently working on:
 
   > **WartOL** - _Mini Project, a simple Website page for stall_ | https://ahmadridho01.github.io/WartOL/
 
   > **FoodSci Hub** - _Project, Website resulting from collaboration between science in the food sector packaged through IT science_ | https://ahmadridho01.github.io/gitWebsiteTekpang/
 
-- 🌱 I’m currently learning **MongoDB**
+<!-- - 🌱 I’m currently learning **MongoDB** -->
 
 #### ⚡Materials
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,js,nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
 #### 📫Connect with Me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-ridho-muhajir-9251a31b1/)
 
-<h3 align="left">Entertain Section😄</h3>
+<div style="text-align: center;">
+
+### Entertain Section😄
+
+</div>
+
+<!-- <h3 align="left">Entertain Section😄</h3> -->
 
 ###
 
