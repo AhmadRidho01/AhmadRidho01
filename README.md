@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
 ## It's so nice to have you here🤩
 
@@ -32,13 +32,14 @@ Here are some ideas to get you started:
 #### ⚡Materials
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
 #### 📫Connect with Me
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-ridho-muhajir-9251a31b1/)
 
-<div style="text-align: center;">
+<div align="center">
 
 ### Entertain Section😄
 
