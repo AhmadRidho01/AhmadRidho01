@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 #### ⚡Materials
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,js,nodejs,express,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql)](https://skillicons.dev)
 
 #### 📫Connect with Me
 
