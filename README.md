@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postman)](https://skillicons.dev)
 
 #### 📫Connect with Me
 
