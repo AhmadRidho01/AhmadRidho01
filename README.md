@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on:
 
-  > **WartOL** - _Mini Project, a simple Website page for stall_ | https://ahmadridho01.github.io/WartOL/
+  > **WartOL** | _Mini project - a website for an online store designed._ | https://ahmadridho01.github.io/WartOL/
 
-  > **FoodSci Hub** - _Project, Website resulting from collaboration between science in the food sector packaged through IT science_ | https://ahmadridho01.github.io/gitWebsiteTekpang/
+  > **FoodSci Hub** | _Project - Building a repository platform that focuses on food safety standards (GMP, HACCP, ISO 22000) and nutritional analysis of food ingredients._ | https://ahmadridho01.github.io/gitWebsiteTekpang/
 
 <!-- - 🌱 I’m currently learning **MongoDB** -->
 
