@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on:
+- ✅ Completed Work:
 
   > **WartOL** | _Mini project - a website for an online store designed._ | https://ahmadridho01.github.io/WartOL/
 
+  > **VoxQuote** | _Mini project - Responsive web that presents random inspirational quotes through API integration._ | https://ahmadridho01.github.io/projectQuoteGenerator/
+
+<br>
+
+- 🔭 I’m currently working on:
   > **FoodSci Hub** | _Project - Building a repository platform that focuses on food safety standards (GMP, HACCP, ISO 22000) and nutritional analysis of food ingredients._ | https://ahmadridho01.github.io/gitWebsiteTekpang/
 
 <!-- - 🌱 I’m currently learning **MongoDB** -->
