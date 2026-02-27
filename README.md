@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
   > **WartOL** | _Mini project - a website for an online store designed._ | https://ahmadridho01.github.io/WartOL/
 
-  > **VoxQuote** | _Mini project - Responsive web that presents random inspirational quotes through API integration._ | https://ahmadridho01.github.io/projectQuoteGenerator/
+  > **VoxQuote** | _Mini project - Responsive web that presents random inspirational quotes through API integration._ | https://ahmadridho01.github.io/quote/
 
 <br>
 
