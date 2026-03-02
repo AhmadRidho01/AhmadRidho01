@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
   > **VoxQuote** | _Mini project - Responsive web that presents random inspirational quotes through API integration._ | https://ahmadridho01.github.io/quote/
 
+  > **NutriLyzer** | _Mini Project - Responsive web application that provides nutritional breakdowns based on specific ingredients and quantities through utilization Nutrition Analysis API integration._ | https://ahmadridho01.github.io/nutrition-checker/
+
 <br>
 
 - 🔭 I’m currently working on:
